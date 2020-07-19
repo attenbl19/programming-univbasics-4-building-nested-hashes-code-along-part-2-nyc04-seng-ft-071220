@@ -65,8 +65,9 @@ def add_characters
    #   - The second hash should have the :name key set to "Apothecary" 
    # Code your solution here:
 
-epic_tragedy[]
-
+epic_tragedy[:additional_characters] = []
+epic_tragedy[:additional_characters][1][:name => ]
+epic_tragedy[:additional_characters][2][:name => "Apothecary"]
 
 
 
